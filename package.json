@@ -1,5 +1,5 @@
 {
-  "name": "aygc",
+  "name": "AYGC",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -22,7 +22,7 @@
     "type": "git",
     "url": "git+https://github.com/ejw773/aygc.git"
   },
-  "author": "",
+  "author": "Elijah Wilcott",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/ejw773/aygc/issues"
