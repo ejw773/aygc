@@ -1,0 +1,12 @@
+.jumbotron {
+    background-image: url("../img/bannerImage.jpg");
+    background-size: cover;
+    font-family: "Oswald", sans-serif;
+    color: white;
+}
+
+.aygc-banner {
+    background-color: rgba(0, 0, 0, 0.2);
+    padding: 5px;
+}
+
