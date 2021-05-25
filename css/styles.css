@@ -27,14 +27,24 @@
     }
 }
 
-.jumbotron {
+.jumbotron-home {
     background-image: url("../img/bannerImage.jpg");
     background-size: cover;
     color: white;
 }
 
-.aygc-banner {
+.jumbotron-about {
+    background-image: url("../img/copper2.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.aygc-banner-home {
     background-color: rgba(220, 164, 125, 0.8);
+}
+
+.aygc-banner-about {
+    background-color: rgba(0, 0, 0, 0.5);
 }
 
 h1, h2, h3, h4, h5, h6, a {
@@ -57,6 +67,10 @@ footer p {
     padding: 14px;
 }
 
-.black-text h1, p {
+.black-text h1 {
+    color: black;
+}
+
+.black-text p {
     color: black;
 }
