@@ -30,7 +30,6 @@
 .jumbotron {
     background-image: url("../img/bannerImage.jpg");
     background-size: cover;
-    font-family: "Oswald", sans-serif;
     color: white;
 }
 
@@ -38,12 +37,13 @@
     background-color: rgba(220, 164, 125, 0.8);
 }
 
-footer h3 {
+h1, h2, h3, h4, h5, h6, a {
     font-family: "Oswald", sans-serif;
     color: white;
 }
 
-footer h5 {
+p {
+    font-family: "Nunito", sans-serif;
     color: white;
 }
 
