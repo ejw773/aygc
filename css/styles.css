@@ -23,7 +23,7 @@
         font-size: 1.5rem;
     }
     .social i {
-        font-size: 2rem;
+        font-size: 2.3rem;
     }
 }
 
@@ -42,6 +42,7 @@ h1, h2, h3, h4, h5, h6, a {
     color: white;
 }
 
+
 p {
     font-family: "Nunito", sans-serif;
     color: white;
@@ -54,4 +55,8 @@ footer p {
 .social i {
     color: #dca47d;
     padding: 14px;
+}
+
+.black-text h1, p {
+    color: black;
 }
