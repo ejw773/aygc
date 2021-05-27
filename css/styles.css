@@ -49,6 +49,12 @@
     color: white;
 }
 
+.jumbotron-locations {
+    background-image: url("../img/earth-2113656_1920.jpg");
+    background-size: cover;
+    color: white;
+}
+
 .jumbotron-production {
     background-image: url("../img/aygc-copper-cylinder-3-1024x389.jpg");
     background-size: cover;
@@ -95,3 +101,6 @@ footer p {
     border-color: #dca47d;
     border-width: thick;
 }
+
+/* #7db5dc */
+
