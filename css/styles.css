@@ -43,11 +43,23 @@
     color: white;
 }
 
-.aygc-banner-home {
+.jumbotron-contact {
+    background-image: url("../img/spartanburg1.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.jumbotron-production {
+    background-image: url("../img/aygc-copper-cylinder-3-1024x389.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.aygc-banner-copper {
     background-color: rgba(220, 164, 125, 0.8);
 }
 
-.aygc-banner-about {
+.aygc-banner-black {
     background-color: rgba(0, 0, 0, 0.5);
 }
 
