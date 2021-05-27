@@ -27,6 +27,10 @@
     }
 }
 
+.row-content {
+    padding: 50px;
+}
+
 .jumbotron-home {
     background-image: url("../img/bannerImage.jpg");
     background-size: cover;
@@ -73,4 +77,9 @@ footer p {
 
 .black-text p {
     color: black;
+}
+
+.img-thumbnail {
+    border-color: #dca47d;
+    border-width: thick;
 }
