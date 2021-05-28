@@ -1,12 +1,123 @@
-.jumbotron {
+@media only screen and (min-width: 1200px) {
+    .jumbotron-h1 {
+        font-size: 5rem;
+    }
+    .jumbotron-p {
+        font-size: 2rem;
+        padding-bottom: 10px;
+    }
+    .social i {
+        font-size: 3rem;
+    }
+}
+
+@media only screen and (max-width: 1200px) {
+    .jumbotron-h1 {
+        font-size: 3rem;
+    }
+    .jumbotron-p {
+        font-size: 1.5rem;
+        padding-bottom: 5px;
+    }
+    .footer-heading {
+        font-size: 1.5rem;
+    }
+    .social i {
+        font-size: 2.3rem;
+    }
+}
+
+.row-content {
+    padding: 50px;
+}
+
+.jumbotron-home {
     background-image: url("../img/bannerImage.jpg");
     background-size: cover;
+    color: white;
+}
+
+.jumbotron-about {
+    background-image: url("../img/copper2.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.jumbotron-contact {
+    background-image: url("../img/spartanburg1.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.jumbotron-locations {
+    background-image: url("../img/earth-2113656_1920.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.jumbotron-production {
+    background-image: url("../img/copper3.jpg");
+    background-size: cover;
+    color: white;
+}
+
+.aygc-banner-copper {
+    background-color: rgba(220, 164, 125, 0.8);
+}
+
+.aygc-banner-black {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+h1, h2, h3, h4, h5, h6, a {
     font-family: "Oswald", sans-serif;
     color: white;
 }
 
-.aygc-banner {
-    background-color: rgba(0, 0, 0, 0.2);
-    padding: 5px;
+
+p {
+    font-family: "Nunito", sans-serif;
+    color: white;
 }
 
+footer p {
+    color: #dca47d;
+}
+
+.social i {
+    color: #dca47d;
+    padding: 14px;
+}
+
+.black-text h1 {
+    color: black;
+}
+
+.black-text p {
+    color: black;
+}
+
+.img-thumbnail {
+    border-color: #dca47d;
+    border-width: thick;
+}
+
+  .features-icons-item {
+    max-width: 20rem;
+    padding: 20px;
+
+    /* background: linear-gradient(300deg, rgba(0,0,0,0.75) 0%, rgba(0,0,0,1) 100%); */
+    
+    border-radius: 25px;
+  }
+  .features-icons-item .features-icons-icon {
+    height: 7rem;
+
+  }
+  .features-icons-item .features-icons-icon i {
+    font-size: 4.5rem;
+  }
+  
+  .text-copper {
+      color: #dca47d;
+  }
