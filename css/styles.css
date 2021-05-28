@@ -105,9 +105,10 @@ footer p {
   .features-icons-item {
     max-width: 20rem;
     padding: 20px;
-    background-color: green;
-    border-color: blue;
-    border-width: thick;
+
+    /* background: linear-gradient(300deg, rgba(0,0,0,0.75) 0%, rgba(0,0,0,1) 100%); */
+    
+    border-radius: 25px;
   }
   .features-icons-item .features-icons-icon {
     height: 7rem;
@@ -119,8 +120,4 @@ footer p {
   
   .text-copper {
       color: #dca47d;
-  }
-
-  .icon-row {
-      background-color: black;
   }
