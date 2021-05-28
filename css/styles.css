@@ -102,5 +102,25 @@ footer p {
     border-width: thick;
 }
 
-/* #7db5dc */
+  .features-icons-item {
+    max-width: 20rem;
+    padding: 20px;
+    background-color: green;
+    border-color: blue;
+    border-width: thick;
+  }
+  .features-icons-item .features-icons-icon {
+    height: 7rem;
 
+  }
+  .features-icons-item .features-icons-icon i {
+    font-size: 4.5rem;
+  }
+  
+  .text-copper {
+      color: #dca47d;
+  }
+
+  .icon-row {
+      background-color: black;
+  }
